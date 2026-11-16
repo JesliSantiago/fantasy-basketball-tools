@@ -1,0 +1,10 @@
+# Secrets
+oauth2.json
+
+# Environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Cached data
+data/
