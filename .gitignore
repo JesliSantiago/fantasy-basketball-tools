@@ -8,3 +8,6 @@ __pycache__/
 
 # Cached data
 data/
+
+# CSV files
+*.csv
