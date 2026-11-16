@@ -11,3 +11,7 @@ data/
 
 # CSV files
 *.csv
+
+# Frontend
+node_modules/
+dist/
